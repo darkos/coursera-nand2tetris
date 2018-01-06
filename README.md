@@ -7,4 +7,4 @@ Coursera link: [Coursera](https://www.coursera.org/learn/build-a-computer/home/w
 
 [PPTs and PDFs](http://www1.idc.ac.il/tecs/plan.html) for study
 
-(<a href="https://guides.github.com/features/mastering-markdown/" target="_blank">help with Markdown</a>)
+([help with Markdown](https://guides.github.com/features/mastering-markdown/))
